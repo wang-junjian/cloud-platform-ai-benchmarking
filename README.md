@@ -1,2 +1,1 @@
-# cloud-platform-ai-benchmarking
-Cloud Platform AI Benchmarking
+# Cloud Platform AI Benchmarking
